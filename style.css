@@ -17,7 +17,7 @@ body {
     font-size: 1.6rem; /*tamanho padrão de fonte dos navegadores*/ 
 
     background: url("./assets/backgound.png");
-    background-repeat:no-repeat;
+    
     background-size: 100%;
 }
 
