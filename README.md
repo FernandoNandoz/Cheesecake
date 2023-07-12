@@ -1,5 +1,3 @@
-# Cheesecake
-
 <p align="center">
   <img src=".github/cover.png" alt="Demonstração do projeto" width="100%" />
 </p>
